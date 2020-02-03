@@ -1,0 +1,12 @@
+# jupyter
+jupyter
+# graphics
+matplotlib
+seaborn
+pydotplus
+# numerical computation
+numpy
+# data analysis
+pandas
+# machine learning
+scikit-learn
