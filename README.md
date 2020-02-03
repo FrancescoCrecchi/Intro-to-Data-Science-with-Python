@@ -1,5 +1,7 @@
 # Intro to Data Science with Python Course
 
+Introductionary course in Python for learning-by-doing what is and how to do Data Science.
+
 ## Goal
 
 Give a **primer** on data-analysis, with Python. Using an **hands-on** approach, with exercises and case studies.
